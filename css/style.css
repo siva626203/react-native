@@ -9,7 +9,7 @@
     padding-top: 30px;
     font-size: 60px;
     color: rgb(63, 63, 151);
-
+    text-shadow: 2px 2px rgb(128, 128, 128);
 
 }
 .top{
@@ -112,3 +112,8 @@
     color: rgb(255, 255, 0);
     padding-left: 80px;
 }
+.button:hover{
+    background-color: brown;
+    padding: 4px;
+}
+
