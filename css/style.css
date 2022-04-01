@@ -13,7 +13,7 @@
 
 }
 .top{
-    background-image: url('/image/1.jpg');
+    background-image: url('https://wallpapers-hub.art/wallpaper-images/88386.jpg');
     height: 500px;
     width: 1340px;
     animation: 1s ease-in-out 0s 1 slideInLeft;
@@ -66,7 +66,7 @@
 }
 .footer{
     animation: 1s ease-in-out 0s 1 slideInright;
-    background-image: url('/image/2.jpg');
+    background-image: url('https://wallpapers-hub.art/wallpaper-images/88412.jpg');
     height: 300px;
     width: 1340px;
 }
